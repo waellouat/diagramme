@@ -1,0 +1,19 @@
+creating a backend system to manage inventory, orders, and shipping
+designing an attractive and user-friendly interface for customers to easily navigate and find products they are interested in. 
+
+
+User : 
+-view Items
+-make an order
+-login
+-register
+
+
+Admin:
+-View Users
+-Add products
+-Modify products
+-delete a product
+-Add cataegory
+-Delete users
+-proceed an order
